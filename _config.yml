@@ -1,0 +1,3 @@
+markdown: redcarpet
+baseurl: /project
+exclude: ['README.md']
