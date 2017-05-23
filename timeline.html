@@ -4,8 +4,16 @@ layout: default
 
 <h1>Timeline</h1>
 <ul>
-  {% for post in site.posts%}
+  {% for post in site.categories.in-new-york%}
   <li>
+    <h1>In New York</h1>
+    <a href="">{{post.title}}</a>
+    <p>{{post.date}}</p>
+  </li>
+  {% endfor %}
+  {%for post in site.categories.at-home%}
+  <li>
+    <h1>At Home</h1>
     <a href="">{{post.title}}</a>
     <p>{{post.date}}</p>
   </li>
