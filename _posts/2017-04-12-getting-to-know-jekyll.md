@@ -1,7 +1,7 @@
 ---
 layout: timeline-post
 title:  "Getting to Know Jekyll"
-date:   2017-04-12 10:13:28 -0400
+date:   April 12th 2017
 category: in-new-york
 ---
 Even though I have had experience as a computer scientist and having about 3 years of coding experience under my belt I still had a tough time understanding and using Jekyll throughout my time at Partner & Partners. I was really set out on my own with little help because my brothers had their company to run and deadlines to meet. I first decided to explore how Jekyll works and get an understanding of how it operates and learning the basics of the root languages involved in Jekyll, such as HTML and GitHub Markdown.
