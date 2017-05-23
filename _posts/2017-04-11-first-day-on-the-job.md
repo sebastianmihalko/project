@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: timeline-post
 title:  "First Day on the Job!"
 meta: My Description of my first day at Partner and Partners
 date:   2017-04-11 19:10:45 -0400

@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: timeline-post
 title:  "Getting to Know Jekyll"
 date:   2017-04-12 10:13:28 -0400
 category: in-new-york

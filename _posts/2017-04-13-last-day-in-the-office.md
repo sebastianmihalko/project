@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: timeline-post
 title:  "Last Day in the Office"
 date:   2017-04-13 12:43:56 -0400
 category: in-new-york
