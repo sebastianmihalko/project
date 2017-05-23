@@ -1,5 +1,5 @@
 ---
-layout: timeline
+layout: default
 title:  "First Day on the Job!"
 date:   2017-04-11 19:10:45 -0400
 image: firstday.jpg
