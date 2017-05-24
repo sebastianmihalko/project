@@ -1,2 +1,2 @@
 # project
-I really want this to work
+Fresh start on a new Senior Project
