@@ -19,10 +19,11 @@ html {
 }
 .nav-top {
   font-size: 1.25;
+  color: #fff;
 }
 .masthead {
   padding: 1em;
-  background: #000531 url("..img/codecode.jpg") no-repeat center center
+  background: #000531 url("../img/code_banner.jpg") no-repeat center center;
   background-size: cover;
-  
+  color: #fff;
 }
