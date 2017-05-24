@@ -6,7 +6,8 @@ layout: timeline
   {% for post in site.categories.in-new-york limit:3 %}
   <li>
     <a href="{{site.baseurl}}{{post.url}}">{{post.title}}</a>
-    <img src="{{post.image}}" alt="first day">
+    <p></p>
+    <img src="img/{{post.image}}" alt="{{post.image}}" height="400" width="400">
     <p>{{post.date}}</p>
   </li>
   {% endfor %}
