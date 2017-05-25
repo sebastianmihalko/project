@@ -1,6 +1,6 @@
 ---
 layout: timeline-post
-title: "Getting Posts to Work"
+title: "Getting Timeline to Work"
 date: May 14th 2017
 category: at-home
 image: figured-out-posts.JPG
